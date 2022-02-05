@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/SPWNRightClickRunner
+/SPWNRightClickRunner/bin
+/SPWNRightClickRunner/obj

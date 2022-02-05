@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32113.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPWNRightClickRunner", "SPWNRightClickRunner\SPWNRightClickRunner.csproj", "{E9F0D72D-4FFA-4FD5-B76F-38760633C6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F0D72D-4FFA-4FD5-B76F-38760633C6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F0D72D-4FFA-4FD5-B76F-38760633C6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F0D72D-4FFA-4FD5-B76F-38760633C6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F0D72D-4FFA-4FD5-B76F-38760633C6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEFA7452-6F29-42F8-9EAA-D5AFBCDC70AE}
+	EndGlobalSection
+EndGlobal
